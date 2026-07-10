@@ -1,0 +1,143 @@
+@font-face {
+    font-family: 'Grotesk';
+    src: url('../fonts/neutralgrotesk-regular-webfont.woff2') format('woff2'),
+         url('../fonts/neutralgrotesk-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grotesk';
+    src: url('../fonts/neutralgrotesk-bold-webfont.woff2') format('woff2'),
+         url('../fonts/neutralgrotesk-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+body {
+	font-family: "Inconsolata", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #4e616c;
+}
+
+h1, h2, h4 {
+	font-family: "Grotesk", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #0c1e29;
+}
+
+h3 {
+	font-family: "Source Code Pro", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 500;
+  color: #0c1e29;
+}
+
+h1, h4 {
+	font-weight: normal;
+}
+
+h1 {
+	letter-spacing: 3px;
+	margin-left: -3px;
+  font-size: 4rem;
+  margin-bottom: 8rem;
+}
+
+h2 {
+	font-weight: bold;
+}
+
+h4 {
+	text-transform: uppercase;
+}
+
+p {
+	font-size: 2rem;
+}
+
+p, li {
+	text-align: justify;
+}
+
+.container {
+	margin-top: 20rem;
+}
+
+.links {
+	margin: 2rem 0 10rem;
+}
+
+.links a {
+	color: #3D424D;
+	font-family: "Source Code Pro", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 500;
+	font-size: 2.0rem;
+	text-decoration: none;
+}
+
+.links a:hover, .links a:active, .links a:focus {
+	color: #0FA0CE;
+	text-decoration: underline;
+}
+
+footer {
+	margin: 5rem 0 5rem;
+}
+
+@media only screen and (max-width: 750px) {
+  .container {
+    margin-top: 10rem;
+  }
+
+  h1 {
+    margin-bottom: 4rem;
+  }
+
+  footer .columns {
+      margin-bottom: 2rem;
+  }
+
+  .hidden-small {
+    display: none;
+  }
+}
+
+.cv h2 {
+	font-size: 2.5rem;
+}
+
+.cv h3 {
+	font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.cv h4 {
+	font-size: 1.8rem;
+	letter-spacing: 1px;
+  margin-bottom: 1rem;
+}
+
+.cv h4.location {
+  margin-bottom: 2rem;
+	font-family: "Inconsolata", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #4e616c;
+	text-transform: none;
+	letter-spacing: normal;
+	font-weight: normal;
+}
+
+.cv h4 a {
+	text-transform: initial !important;
+}
+
+.cv p, .cv li {
+	font-size: 1.8rem;
+  hyphens: auto;
+  margin-bottom: 1rem;
+}
+
+.profile, .education, .experience {
+  margin-bottom: 2rem;
+}
+
+a.strike {
+	text-decoration: line-through;
+}
