@@ -36,7 +36,6 @@ function Projects() {
 
       {PROJECTS.map((project) => (
         <div className="row skills" key={project.title}>
-          <div className="two columns hidden-small">&nbsp;</div>
           <div className="ten columns">
             <h4>
               <a href={project.href} target="_blank" rel="noreferrer">
@@ -58,11 +57,6 @@ function Projects() {
               )}
             </h4>
             <p>{project.description}</p>
-            <p>
-              <a href={project.href} target="_blank" rel="noreferrer">
-                {project.href}
-              </a>
-            </p>
           </div>
         </div>
       ))}

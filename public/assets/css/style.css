@@ -53,6 +53,10 @@ p {
 	font-size: 2rem;
 }
 
+p, li {
+	text-align: justify;
+}
+
 .container {
 	margin-top: 20rem;
 }
@@ -113,6 +117,11 @@ footer {
 
 .cv h4.location {
   margin-bottom: 2rem;
+	font-family: "Inconsolata", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #4e616c;
+	text-transform: none;
+	letter-spacing: normal;
+	font-weight: normal;
 }
 
 .cv h4 a {

@@ -2,24 +2,40 @@ import Footer from "../components/Footer";
 
 const INSPIRATIONS = [
   {
-    name: "Dan Abramov",
-    href: "https://twitter.com/dan_abramov",
-    description: "Co-creator of Redux, part of the React core team.",
+    name: "José Ignacio Latorre",
+    href: "https://joseignaciolatorre.com",
+    description:
+      "Quantum physicist, researcher in quantum information, and science communicator.",
   },
   {
-    name: "Kent C. Dodds",
-    href: "https://kentcdodds.com/",
-    description: "Software educator focused on testing and React.",
+    name: "George Hotz",
+    href: "https://geohot.com",
+    description:
+      "Founder of comma.ai, creator of tinygrad, and renowned systems hacker.",
   },
   {
-    name: "Thoughtbot",
-    href: "https://thoughtbot.com/",
-    description: "Design and development consultancy.",
+    name: "Paul Graham",
+    href: "https://paulgraham.com",
+    description:
+      "Co-founder of Y Combinator, programmer, and influential startup essayist.",
   },
   {
-    name: "DHH",
-    href: "https://world.hey.com/dhh",
-    description: "Creator of Ruby on Rails.",
+    name: "Leslie Lamport",
+    href: "https://lamport.azurewebsites.net",
+    description:
+      "Turing Award winner, creator of Paxos, TLA+, and Lamport timestamps.",
+  },
+  {
+    name: "Erik Demaine",
+    href: "https://erikdemaine.org",
+    description:
+      "MIT professor specializing in algorithms, computational geometry, and origami mathematics.",
+  },
+  {
+    name: "David Nolen",
+    href: "https://swannodette.github.io",
+    description:
+      "Clojure/ClojureScript core contributor, known for his work on Om and functional UI architecture.",
   },
 ];
 
@@ -34,12 +50,14 @@ function Inspiration() {
 
       <h2>Inspiration</h2>
 
-      <p>People/companies that have inspired my work:</p>
+      <p>
+        People whose ideas and work have deeply inspired how I think about
+        engineering, math, and building things:
+      </p>
       <br />
 
       {INSPIRATIONS.map((item) => (
         <div className="row skills" key={item.name}>
-          <div className="two columns hidden-small">&nbsp;</div>
           <div className="ten columns">
             <h4>
               <a href={item.href} target="_blank" rel="noreferrer">

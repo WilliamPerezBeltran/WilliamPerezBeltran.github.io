@@ -10,7 +10,8 @@ function Home() {
           <p>
             Hello, I'm a Senior Software Engineer. I've been building
             production systems across fintech, healthcare, energy, and media
-            for 9+ years.
+            for 9+ years. I'm also a musician at heart, fascinated by math,
+            physics, and science.
           </p>
         </div>
       </div>
