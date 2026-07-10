@@ -1,0 +1,114 @@
+cWilliam Pérez
+Senior Software Engineer · Full-Stack & Backend Development
+williampbeltranprogramador@gmail.com | +57 304 209 7609 | linkedin.com/in/williamperezb
+GitHub: github.com/WilliamPerezBeltran
+SUMMARY
+Senior software engineer with 9+ years building production systems across fintech, healthcare, energy, and media. I favor simple,
+maintainable solutions over clever ones, and I care about the full SDLC - clean APIs, automated testing, code review, and mentoring
+the engineers around me. I'm drawn to using math and data to guide decisions, and outside of work that same curiosity shows up in
+music, which I've also brought into a couple of my recent projects. Claude and other AI tools are part of how I work day to day, not
+an afterthought - I use them to move faster on research, code, and communication without cutting corners on quality.
+TECHNICAL SKILLS
+Backend: Go (Golang), Elixir/Phoenix (OTP, LiveView, GenServer, Ecto), Python (Django, FastAPI, Flask), Ruby on Rails, Java
+Spring Boot, Node.js
+Frontend: React, React Native, TypeScript, Next.js, Tailwind CSS, GraphQL, EmberJS
+Databases: MySQL, PostgreSQL, SQLite, Redis, Oracle DB, SQL Server, Elasticsearch
+AI Tools: Claude (CLI, Claude Code) - daily use for development, code review, research, and documentation
+DevOps / Cloud: Docker, Kubernetes, AWS (EC2, EKS, S3, RDS), Pulumi, GitHub Actions, Jenkins, GitLab CI/CD
+Testing: ExUnit, RSpec, Jest, Pytest, JUnit5, FactoryBot - unit, integration & end-to-end testing, avg. 87% coverage
+Architecture: RESTful APIs, Microservices, Event-Driven, Hexagonal/Clean Architecture, MVC, Concurrency
+Methodologies: Scrum, Kanban, Code Review, Pair Programming, Jira, Confluence
+EXPERIENCE
+Software Developer - Independent Projects
+Freelance · Remote
+●
+●
+Project: Scalable monolith built in Elixir, Phoenix, and LiveView for a real-time real estate application, with PostgreSQL,
+Cloudflare R2, and deployment on Fly.io under a modular monolith architecture. https://inmo-app.fly.dev (demo)
+Project: Music learning platform built with Elixir, Phoenix LiveView, and PostgreSQL, featuring a real-time
+synchronization architecture integrating Tone.js and OSMD for processing, dynamic rendering, and synchronized playback
+of musical events. https://music-demo.fly.dev | https://github.com/WilliamPerezBeltran/music_learning_platform (demo)
+Full-Stack Engineer & Technical Consultant
+Mc Guffin Estudio Audiovisual - Spain · Remote · Part-time
+●
+●
+●
+●
+●
+Apr 2026 - Present
+Jan 2023 - Mar 2026
+Used Claude (CLI, Claude Code) daily to accelerate delivery, automate repetitive tasks, and improve code quality across
+full-stack projects.
+Built resilient systems with functional programming, OTP concurrency, LiveView, and PostgreSQL.
+Participated in the development of 4 SaaS products, contributing to a 35% reduction in time-to-market.
+Designed RESTful APIs and WebSocket channels for systems handling 50,000+ concurrent users.
+Migrated a monolith to a modular, context-based architecture, reducing latency from 420ms to 95ms.
+Tools used: Elixir, Phoenix, LiveView, PostgreSQL, React, TypeScript, Claude Code.
+Senior Software Engineer
+IQVIA - United States · Remote · Contract
+●
+●
+●
+Feb 2022 - Oct 2022
+Split time between hands-on development/PR reviews (50%) and technical coordination (50%).
+Built a new React application from scratch and migrated a legacy EmberJS app for 3,200 users, improving load time by
+40%.
+Optimized backend endpoints; configured Kubernetes + Docker; implemented Jenkins CI scripts.
+Tools used: React, EmberJS, Kubernetes, Docker, Pulumi, Jenkins.
+Back-End Developer
+Feb 2021 - Oct 2021BNP Paribas Cardif - Bogota · Full-time
+●
+●
+●
+Developed 6 microservices with RESTful APIs processing 180,000+ policies/day at p95 latency under 200ms.
+Implemented async messaging with Apache Kafka (3 brokers) with zero message loss over 7 months.
+Built a policy cancellation API that automated a manual process, saving 320 hours/month.
+Tools used: Microservices, REST APIs, Apache Kafka, MySQL.
+Software Developer · Independent Contractor
+Servicios Industriales y Maritimos S.A.S. (SEIMAR) - Cartagena
+●
+Built an inventory control automation system with RFID integration and real-time reports, reducing audit time by 65%.
+Full-Stack Developer
+Environmental Engineering UPTC - Colombia · Remote
+●
+●
+●
+●
+●
+Sep 2017 - Jan 2019
+Built an energy tariff scraping system processing 2M+ records/week, automating tasks and eliminating 14 hours/week of
+manual work.
+Designed the data pipeline architecture for ingesting, cleaning, and storing energy tariff data at scale.
+Delivered the project fully remotely as a freelancer, coordinating directly with a UK-based team across time zones.
+EDUCATION
+Industrial Engineering, 2008-2012 - Sergio Arboleda University, Bogota
+Software Development Bootcamp, 2016 - Make It Real, Bogota
+Software Development Bootcamp, 2016 - IT Group, Bogota
+CERTIFICATIONS
+●
+●
+●
+●
+Jan 2019 - Dec 2019
+Optimized operations research algorithms, reducing computation time from 8 minutes to 47 seconds.
+Implemented and tested mathematical optimization models used in decision-support tools for research projects.
+Worked closely with a multidisciplinary research team to turn operations research models into production code.
+Back-End Developer · Freelance
+Octopus Energy - London, United Kingdom · Remote
+●
+Jan 2020 - Feb 2021
+Delivered a web + mobile educational app adopted by 1,200 students, full SDLC cycle with 82% automated test coverage.
+Designed and implemented the app's data model and REST API layer, integrating with the university's academic systems.
+Collaborated directly with faculty to translate curriculum requirements into working product features.
+Software Developer
+Melius Investigacion y Desarrollo - Colombia · Full-time
+●
+●
+●
+Sep 2020 - Mar 2021
+Programming in Go (Golang) - Platzi
+Docker: Fundamentals - Platzi
+TypeScript - Platzi
+Jenkins Basics - Platzi
+LANGUAGES
+Spanish: Native | English: C1

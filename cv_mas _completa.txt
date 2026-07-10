@@ -1,0 +1,78 @@
+William Pérez
+Software Developer located in Colombia
+Email: williampbeltranprogramador@gmail.com
+linkedin: linkedin.com/in/williamperezb
+Professional Profile
+Industrial Engineer specialized in software development, experienced in building scalable web and mobile
+applications. Skilled in Python, Ruby, JavaScript/TypeScript,go, Django, FastAPI, Flask, React/React
+Native, Electron, Ruby on Rails, and Node.js. Experienced with monoliths, microservices, AWS, Docker,
+Kubernetes, Git/GitHub, and CI/CD pipelines. Strong background in Clean Architecture, SOLID, TDD,
+and agile (Scrum) collaboration.
+Work Experience
+Full-stack Developer - Mc Guffin Estudio (Barcelona) - Jan 2023 - Jan 2026
+Responsible for private software development for different clients, managing the entire development cycle,
+from requirements gathering to implementation, testing, maintenance, and documentation. Focused on
+software architecture, ensuring that the delivered products meet the clients’ objectives and needs. Used agile
+methodologies to organize work and communication, coordinating teams and projects. Performed frontend
+and backend testing, ensuring software quality throughout the process.
+Tools & Technologies: Ruby, Ruby on Rails, React, Node.js, Next.js, GraphQL, PostgreSQL, MySQL,
+Docker, Docker Compose, AWS, GitHub Actions, Jenkins, Bash/Shell scripting, RSpec, Jest, Scrum, Jira,
+Trello, Confluence.
+Full-stack Developer - IQVIA (United States) - Jan 2022 - Oct 2022
+Designed, created, and implemented a new application in ReactJS, including unit tests, by migrating an
+existing application from EmberJS to ReactJS and improving necessary endpoints in the Ruby on Rails
+backend. Configured Kubernetes and Docker for container management, developed CI scripts in Jenkins,
+and documented the project structure in Confluence, including ReactJS components and Ruby on Rails
+backend endpoints.
+Tools & Technologies: ReactJS, EmberJS, JavaScript, Ruby on Rails, Ruby, RSpec, FactoryBot, Post-
+greSQL, Docker, Kubernetes, Jenkins, Confluence, Jira, GitHub, AWS, Bash/Shell scripting, Postman
+Full-stack Developer - Bank BNP Paribas Cardif (Bogotá) - Mar 2021 - Oct 2021
+Spearheaded the design and development of microservices in Java (Spring Boot), tailored to optimize policy
+sales operations. Leveraged Apache Kafka for asynchronous event-driven communication, ensuring scalabil-
+ity and fault tolerance. Managed SQL Server, designing and implementing complex stored procedures to
+encapsulate business logic. Engineered the bank’s online policy cancellation API, streamlining internal work-
+flows and enhancing efficiency. Integrated Spring Security to strengthen authentication and authorization
+mechanisms, ensuring robust access control.
+Tools & Technologies: Java, Spring Boot, JUnit5, Kafka, Oracle Database, MySQL, Stored Procedures,
+SVN, AWS, Confluence
+Full-stack Developer - Universidad UPTC (Bogotá) - Jan 2020 - Feb 2021
+Led the design, planning, and development of a web and mobile application for teaching set theory, in
+collaboration with the mathematics department of UPTC. The project combined JavaScript, React, React
+Native, and GraphQL, with best practices using ESLint and Prettier. The app served as an interactive
+educational tool, with strong focus on user experience and efficiency.William Pérez
+2
+Tools & Technologies: JavaScript, TypeScript, React, React Native, GraphQL, ESLint, Prettier, Node.js,
+Redux, React Query, React Router, Jest, python, Django, GitHub, GitHub Actions, PostgreSQL, Firebase,
+Bash/Shell scripting
+Full-stack Developer - Melius Investigación (Bogotá) - Jan 2019 - Dec 2019
+Developed technology solutions, maintained existing code, created unit tests, and optimized algorithms
+to improve performance and efficiency. Contributed to a web platform and a mobile application hosting
+mathematical models applied to problem solving using operations research techniques.
+Tools & Technologies: Java, Spring Boot, JavaScript, Ruby, Ruby on Rails, React Native, GraphQL
+(Apollo), PostgreSQL, Redis, Docker, Docker Compose, JUnit, RSpec, GitHub Actions, Jira, Trello, Bash/Shell
+scripting
+Back-end Developer - Octopus (London) - Sep 2017 - Jun 2019
+Worked on a data scraping and management project, automating the collection of energy tariff data from
+various sources. Used Django and PostgreSQL as core technologies. Developed custom spiders, managed
+HTTP requests, processed data, and handled exceptions. Contributed to integrity tests and optimized
+system performance with automated scripts for periodic scraping tasks.
+Tools & Technologies: Python, Django, PostgreSQL, Scrapy, HTTP Requests, Custom Spiders, Data
+Processing, Exception Handling, Cron Jobs, Pytest, Bash/Shell scripting, AWS
+Full-stack Developer - Freelance (Colombia) - Sep 2016 - Jun 2019
+Designed and implemented a desktop application for inventory management with RFID. Developed a web
+app with AI to analyze fungal percentages in red petals. Built a mobile application for payment receipt
+control on Android and iOS.
+Tools & Technologies: JavaScript, React, React Native, Electron, Node.js, SQLite, PostgreSQL, Firebase,
+GitHub Actions, Android, JUnit, Jest, React Testing Library, Angular, Vue.js
+Education
+– Bootcamp Software Development — Make It Real, Bogotá (2016)
+– Bootcamp Software Development — IT Group, Bogotá (2016)
+– Bachelor’s Degree in Industrial Engineering — Sergio Arboleda University, Bogotá (2012)
+Languages
+– Spanish: Native
+– English: C1 — Highly Competent
+Certifications (Platzi)
+– Programming in Go (Golang)
+– TypeScript
+– Docker
+– Jenkins
