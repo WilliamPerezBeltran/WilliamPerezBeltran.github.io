@@ -24,8 +24,8 @@ is a deliberate visual clone of [theengineer.co](http://theengineer.co).
 
 ```bash
 # Clone repo
-git clone https://github.com/WilliamPerezBeltran/CvWilliamPerez.git
-cd CvWilliamPerez
+git clone https://github.com/WilliamPerezBeltran/WilliamPerezBeltran.github.io.git
+cd WilliamPerezBeltran.github.io
 
 # Install dependencies
 npm install
@@ -66,6 +66,8 @@ npm run deploy         # build + publish to the gh-pages branch (GitHub Pages)
 │   │   └── Inspiration.js # "/inspiration"
 │   ├── App.js             # HashRouter + route table
 │   └── index.js
+├── docs/
+│   └── DEPLOYMENT.md      # GitHub Pages deploy guide
 ├── CLAUDE.md              # guidance for Claude Code in this repo
 ├── package.json
 └── package-lock.json
@@ -77,12 +79,15 @@ npm run deploy         # build + publish to the gh-pages branch (GitHub Pages)
 npm run deploy
 ```
 
+Live at **<https://williamperezbeltran.github.io/>**.
+
 This builds the app and pushes `build/` to the `gh-pages` branch. `homepage` in
 `package.json` controls the base path the build assumes — it must match the actual
-Pages URL (root `https://<user>.github.io` only works if the repo is named
-`<user>.github.io`; otherwise it needs the `/<repo-name>` suffix). First-time setup
-also requires enabling Pages in the repo's Settings → Pages, pointing at the
-`gh-pages` branch.
+Pages URL, or every static asset 404s and the page renders blank.
+
+Full walkthrough (repo renaming for the clean root URL, the user-page-vs-project-page
+distinction, Node version gotchas, cache troubleshooting): see
+[`docs/DEPLOYMENT.md`](docs/DEPLOYMENT.md).
 
 ## Creator
 
